@@ -2,14 +2,13 @@
 
 Uma landing page simples e temática inspirada na série **Stranger Things**, criada para praticar HTML e CSS, com foco em estruturação de conteúdo, estilização e responsividade.
 
-![Preview](preview.png) <!-- Adicione um print da página como 'preview.png' no repositório -->
-
 ---
 
 ## 🌟 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
+- JavaScript
 - Flexbox
 - Google Fonts
 - Responsividade Mobile-First
